@@ -15,7 +15,7 @@ Original Hand Drawn Art for Sale is an easy-to-use console-based application tha
 
 •	Search for artworks
 
-•	Purchase the artwork
+•	View the artwork
 
 
 ___
@@ -29,7 +29,7 @@ ___
 
 ## **Possible Future Enhancements (Not included in current version)**
 
-•	User authentication/login for artists and buyers
+•	Allow user to purchase the painting and Add (add cart) feature in our website
 
 •	Integration with payment gateway for purchases
 
@@ -51,7 +51,7 @@ ___
 
 •	Define Data Models
 
-•	Implement Add & List Functionality
+•	Implement Add the photographs
 
 •	Midweek Sprint meeting and Testing
 ___
