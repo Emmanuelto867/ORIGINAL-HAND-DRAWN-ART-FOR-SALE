@@ -1,7 +1,7 @@
 # ORIGINAL-HAND-DRAWN-ART-FOR-SALE
 ___
 ## **Project Overview**
-**Original Hand Drawn Art for Sale** is a console-based application developed in C# to showcase and manage a catalog of unique, hand-drawn artwork. This application supports browsing, adding, and managing art listings, giving users a simple interface to explore Unique visual pieces.
+**Original Hand Drawn Art for Sale** is a Web-based application developed in C# to showcase and manage a catalog of unique, hand-drawn artwork. This application supports browsing, adding, and managing art listings, giving users a simple interface to explore Unique visual pieces.
 
 ___
 ## **Problem**
@@ -9,7 +9,7 @@ In a digital world filled with mass-produced art, original hand-drawn work often
 
 ___
 ## Project Features 
-Original Hand Drawn Art for Sale is an easy-to-use console-based application that will help promote the works of very good artists, and serve as a great platform where Artists and art buyers can:
+Original Hand Drawn Art for Sale is an easy-to-use Web-based application that will help promote the works of very good artists, and serve as a great platform where Artists and art buyers can:
 
 •	Store and view the artwork
 
@@ -32,8 +32,6 @@ ___
 •	Allow user to purchase the painting and Add (add cart) feature in our website
 
 •	Integration with payment gateway for purchases
-
-•	Online web version with UI (ASP.NET or Blazor)
 
 •	Notifications (SMS and Emails) 
 
